@@ -16,9 +16,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62895604670507']
-global.ownernomer = "62895604670507"
-global.premium = ['62895604670507','6281328144300']
+global.owner = ['6285158121779']
+global.ownernomer = "6285158121779"
+global.premium = ['6285158121779','6285228679898']
 global.packname = 'Zenss'
 global.author = 'Cuyy'
 global.sessionName = 'zenss'
