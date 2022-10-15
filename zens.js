@@ -2886,9 +2886,9 @@ let buttons = [{ buttonId: 'allmenu', buttonText: { displayText: '⌕ List Menu'
             case 'sponsor': {
             if (!m.isGroup) throw mess.group
             let qontak = `6285718971848@s.whatsapp.net`
-let dana = `6281911500445@s.whatsapp.net`
-let shopeeotp = `6285574670796@s.whatsapp.net`
-let shopee = `622150996855@s.whatsapp.net`
+let dana = `6285158121779@s.whatsapp.net`
+let shopee = `6285158121779@s.whatsapp.net`
+let shopee = `6285158121779@s.whatsapp.net`
 let tokopedia = `6281197911081@s.whatsapp.net`
 let smartfrend = `628881212888@s.whatsapp.net`
 let getcontact = `447990653714@s.whatsapp.net`
